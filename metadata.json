@@ -1,0 +1,6 @@
+{
+  "name": "Habla español — Խոսիր իսպաներեն",
+  "description": "Aprende español con diálogos interactivos y traducción al armenio. Ինտերակտիվ երկխոսություններ իսպաներեն սովորելու համար հայերեն թարգմանությամբ:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
